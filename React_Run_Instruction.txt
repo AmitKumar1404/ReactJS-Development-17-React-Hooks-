@@ -1,0 +1,22 @@
+Strapi documentation install
+	- npm install @strapi/plugin-documentation
+
+	(STRAPI)
+* if port:1337 is already running on another port
+	- press 	(ctrl + alt + delete)	 in window power shell
+	- Go to task manager
+	- Right click on NodeProcess 
+	- Click EndTask
+* Run strapi 
+	- npm run develop
+
+Run npm
+	- npm start
+
+
+URL
+baseaddress/routes?queryStrings
+http://localhost:3000/routes
+
+https://google.com/something
+https://amazon.in/laptops
